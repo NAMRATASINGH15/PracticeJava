@@ -15,7 +15,7 @@ public class Anonymous {
                 maximumElement = arr[i];
             }
         }
-        
+
         System.out.println(maximumElement);
     }
 }
