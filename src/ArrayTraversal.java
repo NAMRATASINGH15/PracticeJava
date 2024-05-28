@@ -13,7 +13,7 @@ public class ArrayTraversal {
         arr[4] = 50;
         arr[5] = 60;
 
-        //Declaration, Instantiation and Initialization
+        //Declaration, Instantiation and Initialization at a same time
         int[] brr = {10, 20, 30, 40};
 
         //Treverse Array
