@@ -12,7 +12,7 @@ public class PassingArrayToMethod {
 
         minimumNumber(arr);
     }
-    
+
     public static void minimumNumber(int[] arr) {
 
         int minimum = Integer.MAX_VALUE;
