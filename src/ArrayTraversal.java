@@ -13,10 +13,13 @@ public class ArrayTraversal {
         arr[4] = 50;
         arr[5] = 60;
 
+        //Declaration, Instantiation and Initialization
+        int[] brr = {10, 20, 30, 40};
+
         //Treverse Array
-        for (int i = 0; i < arr.length; i++) {
-            System.out.print(arr[i] + " ");
+        for (int i = 0; i < brr.length; i++) {
+            System.out.print(brr[i] + " ");
         }
-        
+
     }
 }
